@@ -52,8 +52,16 @@ defaults:
   - scope:
       path: "pages"
     values:
-      layout: page
+      layout: page-narrow
       permalink: /:basename:output_ext
 
 # ignore stuff
 exclude: [docs/, Rakefile, README.md, LICENSE]
+
+plugins:
+  - jekyll-scholar
+
+scholar:
+  style: plos
+  source: ./_bibliography
+  bibliography: references.bib

@@ -1,0 +1,35 @@
+<script>
+    document.addEventListener('DOMContentLoaded', function() {
+      const headings = document.querySelectorAll('h2, h3, h4, h5, h6');
+      
+      headings.forEach(heading => {
+        if (heading.id) {
+          const link = document.createElement('a');
+          link.href = '#' + heading.id;
+          link.className = 'heading-anchor';
+          link.innerHTML = '#';
+          link.setAttribute('aria-label', 'Link to ' + heading.textContent);
+          heading.appendChild(link);
+        }
+      });
+    });
+    </script>
+    
+    <style>
+    .heading-anchor {
+      text-decoration: none;
+      color: #6c757d;
+      opacity: 0;
+      margin-left: 0.5em;
+      font-weight: normal;
+      transition: opacity 0.2s;
+    }
+    
+    h2:hover .heading-anchor,
+    h3:hover .heading-anchor,
+    h4:hover .heading-anchor,
+    h5:hover .heading-anchor,
+    h6:hover .heading-anchor {
+      opacity: 1;
+    }
+    </style>
