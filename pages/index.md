@@ -5,7 +5,6 @@ nav: Main
 ---
 
 
-## Extract, Predict, Support: Improving Medication Choice and Outcomes from Clinical Data to Decision Support
 
 <br />
 
