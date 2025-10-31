@@ -4,7 +4,11 @@ layout: page-narrow
 nav: Main
 ---
 
+<br />
+{:.no_toc}
 
+* TOC
+{:toc}
 
 <br />
 
@@ -28,10 +32,19 @@ Our own preliminary analysis bears this out: across a cohort of patients in the 
 
 {% include figure.html img="sankey.png" alt="Sankey Diagram of Medication Pathways" caption="Figure 1: Prescription patterns after an initial anxiety and/or depression diagnosis in the AllOfUs cohort. Of 123,010 patients prescribed medication, 48% percent modified (switched or augmented) at a later date, 24% did so more than once. Preliminary data; top 10 medications and up to 2 modifications shown for clarity." %}
 
+Patients often switch or modify medications due to adverse side effects; as illustrated by Campos et al. \cite{Campos2021-yh}, these range from mild symptoms such as dry mouth and runny nose to severe, including suicidal ideation:
 
+{% include figure.html width="60%" img="side-effects.png" alt="Common Side Effects of Anxiety and Depression Medications" caption="Figure 2: Common side effects for medications often prescribed for anxiety or depression, courtesy Campos et al. 2021 (Campos et al., 2021), highlighting the diversity of adverse reactions across medications ranging from minor (runny nose, dry mouth) to severe (suicidal thoughts and attempts)." %}
 
+**Simply put, helping patients and clinicians identify effective medications with less trial-and-error would eliminate a tremendous amount of human suffering.**
 
+#### Can you really predict which medications will work best?
 
+Yes! Genetics, age, sex, and other patient-specific features are increasingly recognized influences \cite{Murphy2003-zi,Thase2005-sf}, suggesting a role for personalized therapeutic choices. Indeed, recent applications have shown promise in predicting medication outcomes in psychiatry, and for depression specifically \cite{Chekroud2021-ft,Elbakary2025-zu,Sheu2023-js}.
+
+Our own preliminary analyses support this hypothesis as well: using the same data as above, we modeled the probability of switching or augmenting based on patient demographic and risk factors, revealing that levels of stress, companionship, and choice of medication class influences likelihood of a change in medication regime:
+
+{% include figure.html width="40%" img="coeffs.png" alt="Forest Plot of Basic Logistic Regression Model Predicting Switching or Augmenting" caption="Figure 3: Odds ratios and 95% confidence intervals for factors predicting medication switch or augmentation relative to baseline rates for Male patients prescribed an SSRI. Stress, companionship, and medication class influence baseline modification rates. Preliminary data (same as Figure 1, N=123,010)." %}
 
 ## References
 
