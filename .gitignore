@@ -13,3 +13,7 @@ vendor/
 
 # temporarily ignore gemfile.lock
 Gemfile.lock
+
+# Generated files
+pages/index.md
+pages/search.md
