@@ -14,6 +14,8 @@ nav: Main
 
 #### What is this project about?
 
+{% include figure.html img="abstract.png" alt="Graphical Abstract" %}
+
 Medication therapy, along with psychotherapy, is effective and widely utilized for the treatment of anxiety and depression disorders. Unfortunately, no single medication is universally effective, and many patients suffer from a harmful trial-and-error process to find the right medication.
 
 Our project aims to develop explainable machine learning models for medication choice from large-scale Electronic Health Record (EHR) data, and integrate those models into useful and usable interfaces, with interpretation of the results contextualized by generative AI for clinical audiences.
