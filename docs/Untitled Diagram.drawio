@@ -1,0 +1,184 @@
+<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36" version="29.1.0">
+  <diagram name="Page-1" id="-9E5Ko7K5bUmd7iVImUj">
+    <mxGraphModel dx="1066" dy="789" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="iT26RNH1nGXQxAB36mZe-5" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;rounded=0;" value="&lt;font style=&quot;color: rgb(204, 102, 0);&quot;&gt;&lt;b&gt;G&lt;/b&gt;overnance&lt;/font&gt;" vertex="1">
+          <mxGeometry height="30" width="60" x="610" y="40" as="geometry" />
+        </mxCell>
+        <mxCell id="iT26RNH1nGXQxAB36mZe-6" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;rounded=0;" value="&lt;font style=&quot;color: rgb(102, 0, 204);&quot;&gt;&lt;b&gt;D&lt;/b&gt;ecision Support&lt;/font&gt;" vertex="1">
+          <mxGeometry height="30" width="120" x="610" y="70" as="geometry" />
+        </mxCell>
+        <mxCell id="iT26RNH1nGXQxAB36mZe-7" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;rounded=0;" value="&lt;font style=&quot;color: rgb(0, 204, 0);&quot;&gt;&lt;b&gt;M&lt;/b&gt;odeling&lt;/font&gt;" vertex="1">
+          <mxGeometry height="30" width="120" x="610" y="100" as="geometry" />
+        </mxCell>
+        <mxCell id="iT26RNH1nGXQxAB36mZe-9" connectable="0" parent="1" style="group" value="" vertex="1">
+          <mxGeometry height="80" width="200" x="110" y="60" as="geometry" />
+        </mxCell>
+        <mxCell id="iT26RNH1nGXQxAB36mZe-1" parent="iT26RNH1nGXQxAB36mZe-9" style="rounded=1;whiteSpace=wrap;html=1;verticalAlign=bottom;" value="Access Publicly Available Note Data" vertex="1">
+          <mxGeometry height="60" width="120" x="10" y="-10" as="geometry" />
+        </mxCell>
+        <mxCell id="iT26RNH1nGXQxAB36mZe-4" parent="iT26RNH1nGXQxAB36mZe-9" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;rounded=0;" value="&lt;font style=&quot;color: rgb(0, 102, 204);&quot;&gt;&lt;b&gt;E&lt;/b&gt;&lt;/font&gt;" vertex="1">
+          <mxGeometry height="30" width="20" x="20" y="-10" as="geometry" />
+        </mxCell>
+        <mxCell id="iT26RNH1nGXQxAB36mZe-8" parent="iT26RNH1nGXQxAB36mZe-9" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="&lt;font style=&quot;color: rgb(0, 0, 204);&quot;&gt;ETA: 0.5 mos&lt;/font&gt;" vertex="1">
+          <mxGeometry height="30" width="100" y="50" as="geometry" />
+        </mxCell>
+        <mxCell id="iT26RNH1nGXQxAB36mZe-10" connectable="0" parent="1" style="group" value="" vertex="1">
+          <mxGeometry height="80" width="200" x="320" y="140" as="geometry" />
+        </mxCell>
+        <mxCell id="iT26RNH1nGXQxAB36mZe-11" parent="iT26RNH1nGXQxAB36mZe-10" style="rounded=1;whiteSpace=wrap;html=1;verticalAlign=bottom;" value="Initial Extraction Pipeline Development" vertex="1">
+          <mxGeometry height="50" width="130" as="geometry" />
+        </mxCell>
+        <mxCell id="iT26RNH1nGXQxAB36mZe-14" parent="iT26RNH1nGXQxAB36mZe-10" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="&lt;font style=&quot;color: rgb(0, 0, 204);&quot;&gt;ETA: 1 mos&lt;/font&gt;" vertex="1">
+          <mxGeometry height="30" width="100" y="50" as="geometry" />
+        </mxCell>
+        <mxCell id="iT26RNH1nGXQxAB36mZe-15" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="&lt;font style=&quot;color: rgb(255, 67, 67);&quot;&gt;&lt;b&gt;C&lt;/b&gt;AB Involvement&lt;/font&gt;" vertex="1">
+          <mxGeometry height="30" width="120" x="600" y="10" as="geometry" />
+        </mxCell>
+        <mxCell id="iT26RNH1nGXQxAB36mZe-16" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="&lt;font style=&quot;color: rgb(255, 67, 67);&quot;&gt;CAB&lt;/font&gt;" vertex="1">
+          <mxGeometry height="30" width="60" x="620" y="190" as="geometry" />
+        </mxCell>
+        <mxCell id="iT26RNH1nGXQxAB36mZe-17" connectable="0" parent="1" style="group" value="" vertex="1">
+          <mxGeometry height="80" width="200" x="150" y="280" as="geometry" />
+        </mxCell>
+        <mxCell id="iT26RNH1nGXQxAB36mZe-18" parent="iT26RNH1nGXQxAB36mZe-17" style="rounded=1;whiteSpace=wrap;html=1;" value="Eval Extraction on Public Benchmarks" vertex="1">
+          <mxGeometry height="50" width="130" as="geometry" />
+        </mxCell>
+        <mxCell id="iT26RNH1nGXQxAB36mZe-19" parent="iT26RNH1nGXQxAB36mZe-17" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;rounded=0;" value="&lt;font style=&quot;color: rgb(0, 102, 204);&quot;&gt;Extraction&lt;/font&gt;" vertex="1">
+          <mxGeometry height="30" width="60" x="140" as="geometry" />
+        </mxCell>
+        <mxCell id="iT26RNH1nGXQxAB36mZe-20" parent="iT26RNH1nGXQxAB36mZe-17" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="&lt;font style=&quot;color: rgb(0, 0, 204);&quot;&gt;ETA: 2 mos&lt;/font&gt;" vertex="1">
+          <mxGeometry height="30" width="100" y="50" as="geometry" />
+        </mxCell>
+        <mxCell id="iT26RNH1nGXQxAB36mZe-21" connectable="0" parent="1" style="group" value="" vertex="1">
+          <mxGeometry height="80" width="200" x="150" y="440" as="geometry" />
+        </mxCell>
+        <mxCell id="iT26RNH1nGXQxAB36mZe-22" parent="iT26RNH1nGXQxAB36mZe-21" style="rounded=1;whiteSpace=wrap;html=1;" value="Deploy Pipeline in CDWH" vertex="1">
+          <mxGeometry height="50" width="130" as="geometry" />
+        </mxCell>
+        <mxCell id="iT26RNH1nGXQxAB36mZe-23" parent="iT26RNH1nGXQxAB36mZe-21" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;rounded=0;" value="&lt;font style=&quot;color: rgb(0, 102, 204);&quot;&gt;Extraction&lt;/font&gt;" vertex="1">
+          <mxGeometry height="30" width="60" x="140" as="geometry" />
+        </mxCell>
+        <mxCell id="iT26RNH1nGXQxAB36mZe-24" parent="iT26RNH1nGXQxAB36mZe-21" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="&lt;font style=&quot;color: rgb(0, 0, 204);&quot;&gt;ETA: 2 mos&lt;/font&gt;" vertex="1">
+          <mxGeometry height="30" width="100" y="50" as="geometry" />
+        </mxCell>
+        <mxCell id="iT26RNH1nGXQxAB36mZe-26" edge="1" parent="1" source="iT26RNH1nGXQxAB36mZe-1" style="endArrow=classic;html=1;rounded=0;" target="iT26RNH1nGXQxAB36mZe-18" value="">
+          <mxGeometry height="50" relative="1" width="50" as="geometry">
+            <mxPoint x="220" y="360" as="sourcePoint" />
+            <mxPoint x="270" y="310" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="iT26RNH1nGXQxAB36mZe-27" edge="1" parent="1" source="iT26RNH1nGXQxAB36mZe-11" style="endArrow=classic;html=1;rounded=0;" target="iT26RNH1nGXQxAB36mZe-18" value="">
+          <mxGeometry height="50" relative="1" width="50" as="geometry">
+            <mxPoint x="210" y="190" as="sourcePoint" />
+            <mxPoint x="278" y="390" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="iT26RNH1nGXQxAB36mZe-28" edge="1" parent="1" source="iT26RNH1nGXQxAB36mZe-18" style="endArrow=classic;html=1;rounded=0;" target="iT26RNH1nGXQxAB36mZe-22" value="">
+          <mxGeometry height="50" relative="1" width="50" as="geometry">
+            <mxPoint x="390" y="240" as="sourcePoint" />
+            <mxPoint x="280" y="330" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="iT26RNH1nGXQxAB36mZe-29" connectable="0" parent="1" style="group" value="" vertex="1">
+          <mxGeometry height="80" width="200" x="410" y="350" as="geometry" />
+        </mxCell>
+        <mxCell id="iT26RNH1nGXQxAB36mZe-30" parent="iT26RNH1nGXQxAB36mZe-29" style="rounded=1;whiteSpace=wrap;html=1;" value="IRB Submission &amp;amp; Approval" vertex="1">
+          <mxGeometry height="50" width="130" as="geometry" />
+        </mxCell>
+        <mxCell id="iT26RNH1nGXQxAB36mZe-32" parent="iT26RNH1nGXQxAB36mZe-29" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="&lt;font style=&quot;color: rgb(0, 0, 204);&quot;&gt;ETA: 2 mos&lt;/font&gt;" vertex="1">
+          <mxGeometry height="30" width="100" y="50" as="geometry" />
+        </mxCell>
+        <mxCell id="iT26RNH1nGXQxAB36mZe-34" parent="iT26RNH1nGXQxAB36mZe-29" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;rounded=0;" value="&lt;font style=&quot;color: rgb(204, 102, 0);&quot;&gt;Governance&lt;/font&gt;" vertex="1">
+          <mxGeometry height="30" width="60" x="140" as="geometry" />
+        </mxCell>
+        <mxCell id="iT26RNH1nGXQxAB36mZe-33" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;rounded=0;" value="&lt;font style=&quot;color: rgb(0, 102, 204);&quot;&gt;Extraction&lt;/font&gt;" vertex="1">
+          <mxGeometry height="30" width="60" x="650" y="270" as="geometry" />
+        </mxCell>
+        <mxCell id="iT26RNH1nGXQxAB36mZe-35" connectable="0" parent="1" style="group" value="" vertex="1">
+          <mxGeometry height="80" width="200" x="690" y="340" as="geometry" />
+        </mxCell>
+        <mxCell id="iT26RNH1nGXQxAB36mZe-36" parent="iT26RNH1nGXQxAB36mZe-35" style="rounded=1;whiteSpace=wrap;html=1;" value="Recruit CAB" vertex="1">
+          <mxGeometry height="50" width="130" as="geometry" />
+        </mxCell>
+        <mxCell id="iT26RNH1nGXQxAB36mZe-37" parent="iT26RNH1nGXQxAB36mZe-35" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="&lt;font style=&quot;color: rgb(0, 0, 204);&quot;&gt;ETA: 2 mos&lt;/font&gt;" vertex="1">
+          <mxGeometry height="30" width="100" y="50" as="geometry" />
+        </mxCell>
+        <mxCell id="iT26RNH1nGXQxAB36mZe-38" parent="iT26RNH1nGXQxAB36mZe-35" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;rounded=0;" value="&lt;font style=&quot;color: rgb(204, 102, 0);&quot;&gt;Governance&lt;/font&gt;" vertex="1">
+          <mxGeometry height="30" width="60" x="140" as="geometry" />
+        </mxCell>
+        <mxCell id="iT26RNH1nGXQxAB36mZe-39" connectable="0" parent="1" style="group" value="" vertex="1">
+          <mxGeometry height="80" width="200" x="640" y="560" as="geometry" />
+        </mxCell>
+        <mxCell id="iT26RNH1nGXQxAB36mZe-40" parent="iT26RNH1nGXQxAB36mZe-39" style="rounded=1;whiteSpace=wrap;html=1;" value="Phenotype Definitions" vertex="1">
+          <mxGeometry height="50" width="100" as="geometry" />
+        </mxCell>
+        <mxCell id="iT26RNH1nGXQxAB36mZe-41" parent="iT26RNH1nGXQxAB36mZe-39" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="&lt;font style=&quot;color: rgb(0, 0, 204);&quot;&gt;ETA: 1 mos&lt;/font&gt;" vertex="1">
+          <mxGeometry height="30" width="100" y="50" as="geometry" />
+        </mxCell>
+        <mxCell id="iT26RNH1nGXQxAB36mZe-42" parent="iT26RNH1nGXQxAB36mZe-39" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;rounded=0;" value="&lt;font style=&quot;color: rgb(204, 102, 0);&quot;&gt;Governance&lt;/font&gt;" vertex="1">
+          <mxGeometry height="30" width="60" x="110" as="geometry" />
+        </mxCell>
+        <mxCell id="iT26RNH1nGXQxAB36mZe-43" connectable="0" parent="1" style="group" value="" vertex="1">
+          <mxGeometry height="80" width="200" x="360" y="560" as="geometry" />
+        </mxCell>
+        <mxCell id="iT26RNH1nGXQxAB36mZe-44" parent="iT26RNH1nGXQxAB36mZe-43" style="rounded=1;whiteSpace=wrap;html=1;" value="CDWH Team Platform Access" vertex="1">
+          <mxGeometry height="50" width="100" as="geometry" />
+        </mxCell>
+        <mxCell id="iT26RNH1nGXQxAB36mZe-45" parent="iT26RNH1nGXQxAB36mZe-43" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="&lt;font style=&quot;color: rgb(0, 0, 204);&quot;&gt;ETA: 2 mos&lt;/font&gt;" vertex="1">
+          <mxGeometry height="30" width="100" y="50" as="geometry" />
+        </mxCell>
+        <mxCell id="iT26RNH1nGXQxAB36mZe-46" parent="iT26RNH1nGXQxAB36mZe-43" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;rounded=0;" value="&lt;font style=&quot;color: rgb(204, 102, 0);&quot;&gt;Governance&lt;/font&gt;" vertex="1">
+          <mxGeometry height="30" width="60" x="110" as="geometry" />
+        </mxCell>
+        <mxCell id="iT26RNH1nGXQxAB36mZe-47" edge="1" parent="1" source="iT26RNH1nGXQxAB36mZe-30" style="endArrow=classic;html=1;rounded=0;" target="iT26RNH1nGXQxAB36mZe-44" value="">
+          <mxGeometry height="50" relative="1" width="50" as="geometry">
+            <mxPoint x="380" y="250" as="sourcePoint" />
+            <mxPoint x="270" y="340" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="iT26RNH1nGXQxAB36mZe-48" edge="1" parent="1" source="iT26RNH1nGXQxAB36mZe-36" style="endArrow=classic;html=1;rounded=0;" target="iT26RNH1nGXQxAB36mZe-44" value="">
+          <mxGeometry height="50" relative="1" width="50" as="geometry">
+            <mxPoint x="489" y="340" as="sourcePoint" />
+            <mxPoint x="440" y="490" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="iT26RNH1nGXQxAB36mZe-49" edge="1" parent="1" source="iT26RNH1nGXQxAB36mZe-36" style="endArrow=classic;html=1;rounded=0;" target="iT26RNH1nGXQxAB36mZe-40" value="">
+          <mxGeometry height="50" relative="1" width="50" as="geometry">
+            <mxPoint x="733" y="580" as="sourcePoint" />
+            <mxPoint x="470" y="740" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="iT26RNH1nGXQxAB36mZe-50" connectable="0" parent="1" style="group" value="" vertex="1">
+          <mxGeometry height="80" width="200" x="500" y="720" as="geometry" />
+        </mxCell>
+        <mxCell id="iT26RNH1nGXQxAB36mZe-51" parent="iT26RNH1nGXQxAB36mZe-50" style="rounded=1;whiteSpace=wrap;html=1;" value="CDWH Data Request &amp;amp; Pull" vertex="1">
+          <mxGeometry height="50" width="100" as="geometry" />
+        </mxCell>
+        <mxCell id="iT26RNH1nGXQxAB36mZe-52" parent="iT26RNH1nGXQxAB36mZe-50" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="&lt;font style=&quot;color: rgb(0, 0, 204);&quot;&gt;ETA: 1 mos&lt;/font&gt;" vertex="1">
+          <mxGeometry height="30" width="100" y="50" as="geometry" />
+        </mxCell>
+        <mxCell id="iT26RNH1nGXQxAB36mZe-53" parent="iT26RNH1nGXQxAB36mZe-50" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;rounded=0;" value="&lt;font style=&quot;color: rgb(204, 102, 0);&quot;&gt;Governance&lt;/font&gt;" vertex="1">
+          <mxGeometry height="30" width="60" x="110" as="geometry" />
+        </mxCell>
+        <mxCell id="iT26RNH1nGXQxAB36mZe-54" edge="1" parent="1" source="iT26RNH1nGXQxAB36mZe-40" style="endArrow=classic;html=1;rounded=0;" target="iT26RNH1nGXQxAB36mZe-51" value="">
+          <mxGeometry height="50" relative="1" width="50" as="geometry">
+            <mxPoint x="761" y="510" as="sourcePoint" />
+            <mxPoint x="710" y="680" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="iT26RNH1nGXQxAB36mZe-55" edge="1" parent="1" source="iT26RNH1nGXQxAB36mZe-44" style="endArrow=classic;html=1;rounded=0;" target="iT26RNH1nGXQxAB36mZe-51" value="">
+          <mxGeometry height="50" relative="1" width="50" as="geometry">
+            <mxPoint x="716" y="650" as="sourcePoint" />
+            <mxPoint x="620" y="760" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="iT26RNH1nGXQxAB36mZe-56" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;rounded=0;" value="&lt;font style=&quot;color: rgb(0, 102, 204);&quot;&gt;&lt;b&gt;E&lt;/b&gt;xtraction&lt;/font&gt;" vertex="1">
+          <mxGeometry height="30" width="60" x="610" y="120" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
